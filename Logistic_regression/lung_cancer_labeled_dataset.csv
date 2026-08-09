@@ -1,0 +1,241 @@
+Patient_ID,Age,Gender,Cancer_Type,Tumor_Size_mm,Stage,Metastasis,Gene_Mutation,Smoking_History,Family_History,Radiation_Exposure,Imaging_Result,Blood_Marker_Level,Survival_Months,Label
+PID0003,47,Female,Lung Cancer,10.2,Stage I,No,BRCA2,Non-Smoker,No,High,Normal,19.48,49,1
+PID0006,48,Female,Lung Cancer,23.7,Stage I,No,BRAF,Former Smoker,Yes,High,Normal,13.28,51,1
+PID0009,54,Female,Lung Cancer,30.1,Stage II,No,EGFR,Non-Smoker,No,Low,Abnormal,17.48,39,1
+PID0011,59,Male,Lung Cancer,24.8,Stage I,Yes,None,Former Smoker,Yes,Low,Abnormal,13.37,71,1
+PID0019,81,Male,Lung Cancer,96.1,Stage I,Yes,EGFR,Non-Smoker,Yes,Low,Abnormal,2.84,114,0
+PID0020,51,Male,Lung Cancer,42.5,Stage III,No,BRCA1,Non-Smoker,No,High,Normal,3.05,83,0
+PID0023,53,Male,Lung Cancer,74.5,Stage II,No,BRCA2,Non-Smoker,Yes,Low,Normal,13.91,110,1
+PID0026,75,Male,Lung Cancer,31.5,Stage I,No,BRCA1,Non-Smoker,Yes,Low,Abnormal,15.71,114,0
+PID0028,33,Female,Lung Cancer,86.0,Stage II,Yes,BRAF,Former Smoker,No,High,Abnormal,13.37,52,1
+PID0029,62,Female,Lung Cancer,96.7,Stage III,No,None,Non-Smoker,No,Low,Normal,2.75,34,1
+PID0030,42,Female,Lung Cancer,11.7,Stage IV,No,None,Former Smoker,No,Low,Abnormal,18.04,25,0
+PID0034,85,Female,Lung Cancer,82.0,Stage II,No,BRCA1,Current Smoker,Yes,High,Abnormal,19.69,79,1
+PID0036,42,Female,Lung Cancer,56.2,Stage I,No,BRCA1,Former Smoker,No,Moderate,Normal,18.0,96,0
+PID0041,23,Female,Lung Cancer,9.3,Stage IV,Yes,BRAF,Current Smoker,Yes,Moderate,Normal,4.63,42,0
+PID0044,67,Male,Lung Cancer,78.0,Stage II,No,EGFR,Non-Smoker,Yes,Moderate,Normal,18.86,26,0
+PID0045,29,Male,Lung Cancer,70.0,Stage III,Yes,TP53,Current Smoker,No,Low,Normal,1.84,83,0
+PID0048,68,Female,Lung Cancer,49.9,Stage III,Yes,BRAF,Current Smoker,No,Moderate,Normal,17.67,90,0
+PID0053,36,Female,Lung Cancer,87.4,Stage III,No,BRAF,Former Smoker,No,High,Abnormal,18.85,62,0
+PID0057,56,Female,Lung Cancer,69.1,Stage III,Yes,BRAF,Current Smoker,Yes,Low,Abnormal,16.62,10,0
+PID0059,76,Male,Lung Cancer,89.1,Stage III,No,EGFR,Current Smoker,Yes,Low,Abnormal,11.74,98,0
+PID0064,34,Female,Lung Cancer,65.1,Stage II,No,None,Former Smoker,No,Moderate,Normal,5.25,71,0
+PID0069,63,Female,Lung Cancer,85.3,Stage IV,No,None,Non-Smoker,No,Low,Abnormal,5.08,88,1
+PID0070,56,Male,Lung Cancer,44.0,Stage I,Yes,BRAF,Current Smoker,No,High,Abnormal,16.02,38,0
+PID0075,37,Male,Lung Cancer,31.6,Stage IV,Yes,TP53,Former Smoker,Yes,High,Normal,15.08,23,0
+PID0079,58,Female,Lung Cancer,14.8,Stage I,No,BRAF,Current Smoker,Yes,High,Abnormal,9.35,86,0
+PID0085,77,Male,Lung Cancer,73.0,Stage III,No,None,Current Smoker,Yes,Moderate,Normal,13.88,63,0
+PID0086,76,Male,Lung Cancer,32.9,Stage II,Yes,BRCA1,Former Smoker,No,Moderate,Normal,10.36,56,0
+PID0089,27,Female,Lung Cancer,41.7,Stage IV,Yes,BRCA2,Non-Smoker,No,Moderate,Abnormal,3.52,62,1
+PID0098,41,Male,Lung Cancer,53.5,Stage II,No,BRCA2,Non-Smoker,Yes,High,Abnormal,5.49,23,1
+PID0101,56,Male,Lung Cancer,61.9,Stage IV,No,TP53,Non-Smoker,Yes,Moderate,Abnormal,12.3,65,0
+PID0113,39,Female,Lung Cancer,77.8,Stage II,No,EGFR,Current Smoker,Yes,Moderate,Normal,2.66,116,1
+PID0115,66,Male,Lung Cancer,39.7,Stage IV,Yes,None,Former Smoker,No,Moderate,Abnormal,15.88,45,0
+PID0129,64,Female,Lung Cancer,25.8,Stage III,Yes,None,Former Smoker,Yes,Low,Abnormal,3.84,80,1
+PID0130,63,Male,Lung Cancer,9.0,Stage III,Yes,TP53,Former Smoker,Yes,Moderate,Normal,9.92,104,0
+PID0135,80,Female,Lung Cancer,84.9,Stage IV,Yes,BRCA2,Non-Smoker,No,Moderate,Normal,8.31,73,1
+PID0148,57,Male,Lung Cancer,30.5,Stage I,No,BRCA2,Former Smoker,No,High,Normal,4.26,15,0
+PID0152,84,Female,Lung Cancer,64.2,Stage III,No,TP53,Current Smoker,Yes,High,Normal,9.37,78,1
+PID0156,20,Male,Lung Cancer,5.5,Stage III,Yes,TP53,Current Smoker,Yes,Moderate,Abnormal,8.47,99,0
+PID0163,38,Female,Lung Cancer,56.7,Stage IV,Yes,BRAF,Current Smoker,No,High,Normal,18.48,109,1
+PID0167,48,Male,Lung Cancer,26.8,Stage IV,No,BRCA1,Current Smoker,No,High,Normal,10.24,84,1
+PID0169,27,Male,Lung Cancer,94.6,Stage I,Yes,BRAF,Current Smoker,Yes,High,Abnormal,4.77,59,1
+PID0185,74,Female,Lung Cancer,45.5,Stage IV,No,TP53,Non-Smoker,No,Low,Abnormal,14.18,104,0
+PID0187,33,Male,Lung Cancer,26.6,Stage II,No,BRCA2,Former Smoker,No,Low,Abnormal,19.96,62,0
+PID0191,75,Female,Lung Cancer,74.0,Stage II,No,TP53,Former Smoker,No,High,Abnormal,5.93,91,1
+PID0198,47,Female,Lung Cancer,73.9,Stage II,No,EGFR,Former Smoker,No,Moderate,Abnormal,17.37,16,0
+PID0204,26,Male,Lung Cancer,63.0,Stage IV,Yes,EGFR,Current Smoker,No,Moderate,Abnormal,4.45,89,0
+PID0218,34,Male,Lung Cancer,5.4,Stage I,Yes,EGFR,Former Smoker,No,Moderate,Abnormal,18.66,110,1
+PID0220,25,Female,Lung Cancer,87.8,Stage III,No,BRCA2,Current Smoker,No,High,Normal,6.19,101,1
+PID0223,55,Male,Lung Cancer,92.2,Stage IV,No,BRAF,Non-Smoker,Yes,Low,Abnormal,12.93,51,1
+PID0229,30,Female,Lung Cancer,3.2,Stage I,Yes,None,Former Smoker,Yes,High,Normal,1.33,60,1
+PID0232,45,Male,Lung Cancer,99.0,Stage III,No,TP53,Former Smoker,No,Low,Normal,5.77,4,0
+PID0233,60,Male,Lung Cancer,89.7,Stage III,Yes,BRAF,Non-Smoker,No,Low,Abnormal,2.45,85,1
+PID0234,50,Female,Lung Cancer,76.6,Stage II,No,BRCA2,Current Smoker,Yes,High,Normal,18.32,4,0
+PID0239,20,Female,Lung Cancer,19.0,Stage III,Yes,None,Non-Smoker,Yes,Moderate,Abnormal,15.03,31,0
+PID0241,33,Male,Lung Cancer,39.2,Stage IV,Yes,BRAF,Former Smoker,No,Moderate,Normal,16.66,101,1
+PID0243,40,Male,Lung Cancer,34.5,Stage IV,Yes,BRAF,Non-Smoker,Yes,Low,Normal,1.54,43,1
+PID0245,20,Female,Lung Cancer,30.2,Stage IV,Yes,EGFR,Current Smoker,Yes,High,Normal,9.73,15,1
+PID0248,72,Male,Lung Cancer,84.2,Stage IV,No,TP53,Current Smoker,No,Moderate,Abnormal,18.1,92,0
+PID0249,24,Male,Lung Cancer,95.0,Stage IV,Yes,BRCA1,Current Smoker,Yes,High,Abnormal,2.03,88,0
+PID0253,62,Male,Lung Cancer,74.8,Stage III,No,EGFR,Former Smoker,No,Moderate,Normal,17.24,88,0
+PID0258,31,Female,Lung Cancer,39.3,Stage II,Yes,BRCA1,Non-Smoker,Yes,Low,Abnormal,13.21,66,0
+PID0268,45,Female,Lung Cancer,89.3,Stage II,Yes,None,Current Smoker,Yes,High,Normal,3.01,50,0
+PID0275,83,Male,Lung Cancer,78.2,Stage I,Yes,BRCA2,Non-Smoker,Yes,Moderate,Normal,9.55,13,0
+PID0285,57,Female,Lung Cancer,5.5,Stage II,No,BRCA1,Non-Smoker,No,High,Normal,4.16,120,1
+PID0290,42,Female,Lung Cancer,76.3,Stage IV,No,None,Non-Smoker,No,Moderate,Abnormal,0.99,19,1
+PID0292,65,Female,Lung Cancer,62.0,Stage II,No,BRCA1,Non-Smoker,No,Low,Abnormal,8.06,101,0
+PID0293,60,Male,Lung Cancer,74.6,Stage II,No,BRCA1,Non-Smoker,No,Low,Abnormal,6.24,23,1
+PID0299,44,Female,Lung Cancer,94.9,Stage II,Yes,None,Current Smoker,Yes,Low,Abnormal,16.8,27,0
+PID0302,28,Male,Lung Cancer,36.4,Stage I,No,None,Former Smoker,Yes,Moderate,Normal,8.2,85,0
+PID0304,38,Male,Lung Cancer,1.5,Stage IV,Yes,BRCA2,Current Smoker,No,High,Normal,3.64,29,1
+PID0305,52,Male,Lung Cancer,19.0,Stage I,No,None,Non-Smoker,Yes,Moderate,Abnormal,2.41,93,0
+PID0309,45,Female,Lung Cancer,73.0,Stage I,Yes,TP53,Non-Smoker,No,Low,Abnormal,11.26,70,1
+PID0316,40,Male,Lung Cancer,89.2,Stage II,Yes,BRCA1,Former Smoker,Yes,Low,Normal,17.63,94,1
+PID0326,71,Female,Lung Cancer,94.6,Stage II,No,BRAF,Current Smoker,Yes,Low,Normal,1.16,77,1
+PID0328,71,Male,Lung Cancer,74.0,Stage I,Yes,TP53,Former Smoker,No,Moderate,Normal,12.32,25,1
+PID0329,78,Female,Lung Cancer,26.8,Stage IV,Yes,TP53,Current Smoker,No,Moderate,Abnormal,17.58,105,0
+PID0335,74,Female,Lung Cancer,50.7,Stage IV,Yes,BRAF,Current Smoker,No,Moderate,Abnormal,13.65,49,1
+PID0353,24,Female,Lung Cancer,84.5,Stage II,Yes,BRCA2,Former Smoker,Yes,Low,Normal,4.25,108,1
+PID0354,52,Female,Lung Cancer,13.1,Stage II,No,BRAF,Current Smoker,Yes,High,Normal,10.66,27,1
+PID0356,26,Male,Lung Cancer,24.4,Stage IV,No,EGFR,Current Smoker,No,Low,Abnormal,15.89,2,0
+PID0361,50,Female,Lung Cancer,66.2,Stage IV,Yes,TP53,Non-Smoker,No,Low,Abnormal,6.79,83,0
+PID0362,61,Male,Lung Cancer,52.8,Stage I,Yes,BRCA1,Current Smoker,Yes,High,Abnormal,4.24,5,0
+PID0364,73,Female,Lung Cancer,82.5,Stage III,Yes,None,Current Smoker,No,High,Abnormal,2.47,30,1
+PID0368,24,Female,Lung Cancer,52.2,Stage III,Yes,BRCA2,Current Smoker,Yes,Moderate,Abnormal,18.42,66,0
+PID0369,39,Male,Lung Cancer,46.6,Stage II,Yes,BRCA2,Former Smoker,Yes,High,Normal,2.29,52,0
+PID0371,68,Male,Lung Cancer,92.3,Stage III,No,BRAF,Former Smoker,Yes,High,Abnormal,1.56,68,0
+PID0378,22,Female,Lung Cancer,26.3,Stage I,No,BRCA1,Non-Smoker,No,High,Normal,1.8,85,1
+PID0379,54,Female,Lung Cancer,2.9,Stage IV,Yes,BRAF,Non-Smoker,Yes,Moderate,Normal,4.14,65,1
+PID0380,78,Male,Lung Cancer,25.5,Stage III,No,BRAF,Former Smoker,Yes,High,Normal,7.43,39,0
+PID0381,50,Female,Lung Cancer,63.0,Stage IV,Yes,TP53,Former Smoker,Yes,High,Normal,13.31,12,0
+PID0390,77,Male,Lung Cancer,18.8,Stage II,No,BRAF,Former Smoker,No,High,Abnormal,12.01,92,0
+PID0391,45,Female,Lung Cancer,25.8,Stage II,Yes,EGFR,Current Smoker,No,Low,Normal,10.71,50,1
+PID0396,58,Female,Lung Cancer,5.9,Stage IV,Yes,BRCA1,Non-Smoker,No,Low,Abnormal,15.11,47,0
+PID0401,56,Female,Lung Cancer,31.5,Stage III,Yes,EGFR,Non-Smoker,No,Moderate,Normal,16.72,25,1
+PID0406,31,Female,Lung Cancer,80.1,Stage II,Yes,BRCA2,Former Smoker,No,Moderate,Abnormal,16.53,67,1
+PID0407,36,Male,Lung Cancer,46.5,Stage I,Yes,BRCA2,Current Smoker,Yes,Moderate,Normal,2.51,99,1
+PID0413,28,Female,Lung Cancer,35.8,Stage IV,Yes,BRCA2,Former Smoker,Yes,Low,Abnormal,16.44,102,0
+PID0414,33,Female,Lung Cancer,79.5,Stage IV,No,TP53,Former Smoker,Yes,Low,Abnormal,19.49,50,1
+PID0416,79,Female,Lung Cancer,82.4,Stage II,No,BRAF,Current Smoker,Yes,Low,Normal,10.14,85,0
+PID0433,43,Female,Lung Cancer,67.6,Stage I,Yes,BRAF,Current Smoker,Yes,Low,Normal,4.78,37,0
+PID0434,52,Male,Lung Cancer,3.3,Stage I,Yes,TP53,Non-Smoker,Yes,Low,Abnormal,2.18,78,1
+PID0438,24,Male,Lung Cancer,57.6,Stage III,No,EGFR,Former Smoker,Yes,Low,Abnormal,13.46,35,1
+PID0443,77,Male,Lung Cancer,34.6,Stage III,Yes,BRAF,Current Smoker,Yes,Low,Normal,14.95,30,1
+PID0446,71,Female,Lung Cancer,97.6,Stage II,No,BRCA1,Current Smoker,Yes,Moderate,Abnormal,5.84,97,1
+PID0448,30,Male,Lung Cancer,18.8,Stage I,No,BRAF,Non-Smoker,No,Low,Abnormal,3.29,35,1
+PID0450,50,Male,Lung Cancer,98.7,Stage I,No,TP53,Non-Smoker,Yes,Moderate,Abnormal,1.53,15,0
+PID0452,78,Male,Lung Cancer,74.3,Stage II,Yes,EGFR,Former Smoker,Yes,High,Abnormal,12.06,42,0
+PID0462,85,Female,Lung Cancer,12.0,Stage III,No,TP53,Current Smoker,No,Moderate,Abnormal,11.43,100,1
+PID0466,39,Male,Lung Cancer,30.0,Stage II,No,BRCA2,Former Smoker,No,Low,Abnormal,4.19,3,0
+PID0471,60,Male,Lung Cancer,97.0,Stage III,No,BRAF,Former Smoker,Yes,Low,Normal,13.94,94,0
+PID0478,48,Male,Lung Cancer,16.2,Stage III,No,EGFR,Non-Smoker,No,Moderate,Abnormal,18.18,83,0
+PID0479,51,Male,Lung Cancer,76.7,Stage IV,Yes,TP53,Non-Smoker,No,Low,Normal,17.43,81,0
+PID0481,65,Male,Lung Cancer,28.0,Stage IV,No,EGFR,Former Smoker,No,Low,Abnormal,15.45,24,1
+PID0484,34,Male,Lung Cancer,48.5,Stage III,No,BRCA1,Former Smoker,No,High,Normal,15.02,16,1
+PID0488,50,Male,Lung Cancer,82.1,Stage I,Yes,None,Current Smoker,No,High,Abnormal,18.52,118,1
+PID0493,33,Male,Lung Cancer,37.0,Stage II,No,BRCA1,Non-Smoker,No,High,Abnormal,14.64,36,0
+PID0495,49,Male,Lung Cancer,10.9,Stage I,Yes,BRAF,Non-Smoker,Yes,High,Normal,3.48,80,0
+PID0504,71,Male,Lung Cancer,72.1,Stage I,No,BRCA2,Current Smoker,No,Moderate,Abnormal,16.02,84,0
+PID0515,52,Female,Lung Cancer,93.7,Stage II,No,BRCA1,Current Smoker,No,Low,Normal,15.89,36,0
+PID0517,61,Female,Lung Cancer,76.4,Stage II,No,None,Current Smoker,Yes,Moderate,Abnormal,6.62,11,0
+PID0521,78,Female,Lung Cancer,23.2,Stage II,Yes,BRCA2,Former Smoker,No,Moderate,Abnormal,17.2,77,0
+PID0523,78,Male,Lung Cancer,47.4,Stage III,No,None,Current Smoker,No,Low,Normal,1.92,72,0
+PID0525,67,Male,Lung Cancer,58.5,Stage III,Yes,TP53,Former Smoker,No,Moderate,Abnormal,6.69,68,1
+PID0530,43,Female,Lung Cancer,25.4,Stage IV,Yes,BRCA2,Current Smoker,No,Low,Abnormal,7.78,119,0
+PID0533,50,Female,Lung Cancer,3.0,Stage II,Yes,BRAF,Former Smoker,No,Low,Abnormal,6.32,103,1
+PID0536,39,Female,Lung Cancer,29.8,Stage IV,Yes,BRAF,Former Smoker,Yes,High,Normal,10.7,38,1
+PID0537,26,Male,Lung Cancer,51.8,Stage IV,No,EGFR,Former Smoker,No,Moderate,Normal,15.49,3,1
+PID0541,21,Male,Lung Cancer,81.8,Stage II,Yes,BRCA1,Former Smoker,Yes,Low,Abnormal,16.92,110,0
+PID0545,73,Female,Lung Cancer,50.0,Stage III,No,None,Former Smoker,Yes,High,Normal,9.65,57,1
+PID0550,78,Male,Lung Cancer,78.4,Stage I,Yes,TP53,Current Smoker,Yes,Low,Abnormal,18.26,21,1
+PID0558,84,Female,Lung Cancer,5.7,Stage I,No,BRCA2,Non-Smoker,Yes,Moderate,Normal,16.21,75,1
+PID0567,23,Female,Lung Cancer,64.7,Stage I,Yes,TP53,Non-Smoker,Yes,Low,Abnormal,10.3,3,0
+PID0568,35,Male,Lung Cancer,28.2,Stage II,Yes,None,Non-Smoker,No,High,Normal,11.98,63,0
+PID0574,74,Female,Lung Cancer,1.1,Stage IV,No,None,Current Smoker,Yes,High,Normal,12.16,108,0
+PID0579,44,Female,Lung Cancer,22.9,Stage I,No,None,Non-Smoker,No,High,Abnormal,16.26,29,0
+PID0583,25,Male,Lung Cancer,28.5,Stage IV,No,BRCA2,Current Smoker,No,High,Normal,17.66,104,1
+PID0604,29,Female,Lung Cancer,30.2,Stage I,No,BRCA1,Current Smoker,Yes,High,Normal,11.15,43,1
+PID0610,44,Female,Lung Cancer,33.6,Stage IV,No,EGFR,Current Smoker,Yes,Low,Abnormal,16.62,78,1
+PID0614,38,Female,Lung Cancer,82.6,Stage II,No,TP53,Former Smoker,No,Moderate,Abnormal,6.11,113,1
+PID0617,35,Female,Lung Cancer,75.8,Stage III,No,BRAF,Current Smoker,No,High,Abnormal,1.02,82,0
+PID0619,82,Female,Lung Cancer,9.2,Stage II,No,BRCA1,Former Smoker,No,High,Abnormal,12.34,23,1
+PID0621,47,Female,Lung Cancer,83.8,Stage I,No,None,Former Smoker,No,High,Abnormal,15.56,99,1
+PID0626,41,Female,Lung Cancer,60.4,Stage IV,Yes,BRCA2,Current Smoker,No,Low,Normal,7.03,78,1
+PID0639,69,Female,Lung Cancer,52.3,Stage II,No,BRCA1,Former Smoker,No,Low,Normal,11.93,94,0
+PID0640,72,Male,Lung Cancer,64.0,Stage III,Yes,BRCA2,Non-Smoker,Yes,Low,Normal,0.63,22,0
+PID0641,82,Male,Lung Cancer,7.9,Stage IV,No,None,Former Smoker,No,High,Abnormal,4.13,18,0
+PID0646,71,Female,Lung Cancer,97.6,Stage III,Yes,EGFR,Former Smoker,No,Low,Abnormal,12.24,112,1
+PID0651,52,Female,Lung Cancer,66.9,Stage IV,Yes,None,Former Smoker,Yes,Low,Abnormal,7.85,92,0
+PID0653,60,Female,Lung Cancer,31.8,Stage II,No,BRAF,Former Smoker,No,Low,Abnormal,2.58,2,1
+PID0660,41,Male,Lung Cancer,36.2,Stage IV,Yes,EGFR,Current Smoker,No,Low,Normal,12.73,52,1
+PID0661,51,Male,Lung Cancer,24.8,Stage IV,No,None,Non-Smoker,Yes,Low,Normal,15.67,111,1
+PID0663,81,Female,Lung Cancer,79.6,Stage II,No,BRAF,Non-Smoker,No,Moderate,Abnormal,6.84,92,1
+PID0664,43,Female,Lung Cancer,40.0,Stage IV,Yes,TP53,Non-Smoker,Yes,High,Abnormal,17.31,89,1
+PID0666,24,Male,Lung Cancer,51.1,Stage III,Yes,BRAF,Non-Smoker,Yes,High,Normal,18.95,67,1
+PID0672,68,Male,Lung Cancer,18.4,Stage III,No,EGFR,Non-Smoker,No,Low,Normal,12.35,115,0
+PID0676,31,Male,Lung Cancer,73.3,Stage I,Yes,TP53,Current Smoker,Yes,Low,Normal,16.26,2,0
+PID0678,64,Male,Lung Cancer,61.1,Stage II,Yes,BRCA1,Current Smoker,No,High,Normal,8.74,49,1
+PID0679,41,Female,Lung Cancer,34.5,Stage II,Yes,BRCA2,Former Smoker,No,Moderate,Normal,0.54,81,1
+PID0682,39,Female,Lung Cancer,91.4,Stage I,Yes,None,Former Smoker,Yes,Moderate,Normal,6.34,55,0
+PID0683,43,Female,Lung Cancer,98.9,Stage IV,Yes,BRCA1,Former Smoker,No,High,Normal,2.66,37,1
+PID0695,36,Female,Lung Cancer,95.6,Stage I,Yes,None,Former Smoker,No,Low,Abnormal,9.04,66,1
+PID0710,81,Male,Lung Cancer,58.2,Stage III,Yes,EGFR,Former Smoker,Yes,High,Normal,6.73,55,0
+PID0712,73,Male,Lung Cancer,24.3,Stage I,Yes,EGFR,Former Smoker,No,High,Abnormal,18.27,47,1
+PID0714,38,Female,Lung Cancer,69.9,Stage IV,No,EGFR,Non-Smoker,Yes,Low,Abnormal,16.83,112,0
+PID0718,47,Female,Lung Cancer,22.7,Stage II,Yes,None,Former Smoker,No,Moderate,Normal,3.71,103,0
+PID0720,28,Male,Lung Cancer,75.9,Stage III,Yes,TP53,Current Smoker,Yes,High,Normal,19.54,73,1
+PID0721,25,Female,Lung Cancer,5.8,Stage I,No,EGFR,Former Smoker,No,Moderate,Abnormal,15.16,93,0
+PID0722,65,Male,Lung Cancer,33.8,Stage I,Yes,EGFR,Non-Smoker,No,Moderate,Abnormal,3.64,88,0
+PID0723,79,Male,Lung Cancer,95.3,Stage II,Yes,None,Non-Smoker,Yes,Low,Abnormal,9.23,17,0
+PID0725,83,Male,Lung Cancer,15.1,Stage III,Yes,BRAF,Current Smoker,No,Moderate,Abnormal,3.65,36,0
+PID0726,66,Female,Lung Cancer,8.0,Stage IV,No,BRAF,Former Smoker,No,Low,Abnormal,19.45,63,1
+PID0734,65,Female,Lung Cancer,56.5,Stage II,Yes,None,Non-Smoker,Yes,Moderate,Normal,3.43,59,1
+PID0738,74,Female,Lung Cancer,92.7,Stage IV,No,BRCA2,Current Smoker,Yes,Low,Normal,6.06,85,0
+PID0739,75,Female,Lung Cancer,99.5,Stage I,Yes,None,Current Smoker,No,High,Normal,12.85,65,1
+PID0742,24,Male,Lung Cancer,16.2,Stage III,No,BRCA2,Current Smoker,No,High,Normal,12.52,51,1
+PID0745,39,Male,Lung Cancer,57.6,Stage I,Yes,BRAF,Non-Smoker,No,High,Abnormal,6.29,69,1
+PID0749,42,Male,Lung Cancer,97.6,Stage III,No,TP53,Non-Smoker,Yes,High,Normal,4.26,4,1
+PID0752,55,Female,Lung Cancer,58.8,Stage III,Yes,BRCA1,Non-Smoker,No,Moderate,Normal,12.13,35,0
+PID0754,65,Female,Lung Cancer,12.4,Stage III,No,BRCA1,Former Smoker,Yes,High,Abnormal,7.75,100,0
+PID0755,60,Male,Lung Cancer,32.5,Stage I,No,BRCA1,Former Smoker,No,High,Abnormal,6.03,28,0
+PID0763,72,Female,Lung Cancer,52.7,Stage II,No,None,Former Smoker,No,Moderate,Normal,2.29,99,1
+PID0768,65,Female,Lung Cancer,92.8,Stage I,No,BRAF,Current Smoker,Yes,Moderate,Normal,1.54,35,0
+PID0769,67,Male,Lung Cancer,65.2,Stage IV,Yes,BRCA2,Current Smoker,No,High,Normal,10.61,14,0
+PID0770,26,Male,Lung Cancer,22.7,Stage I,Yes,TP53,Former Smoker,Yes,High,Abnormal,4.92,80,0
+PID0774,51,Female,Lung Cancer,5.5,Stage I,No,BRCA1,Non-Smoker,Yes,High,Abnormal,6.44,95,1
+PID0779,64,Female,Lung Cancer,97.0,Stage IV,Yes,BRAF,Non-Smoker,Yes,Low,Normal,6.42,37,1
+PID0780,28,Female,Lung Cancer,45.9,Stage II,No,TP53,Current Smoker,Yes,Moderate,Normal,8.89,85,1
+PID0782,57,Male,Lung Cancer,47.8,Stage III,Yes,None,Non-Smoker,No,Moderate,Normal,17.91,118,1
+PID0787,33,Female,Lung Cancer,82.4,Stage IV,No,EGFR,Current Smoker,Yes,Low,Abnormal,11.46,64,1
+PID0792,74,Male,Lung Cancer,29.1,Stage I,No,EGFR,Non-Smoker,No,High,Normal,18.21,46,1
+PID0801,26,Female,Lung Cancer,23.2,Stage III,No,BRAF,Non-Smoker,No,High,Abnormal,1.96,74,0
+PID0805,49,Male,Lung Cancer,3.6,Stage II,No,None,Non-Smoker,Yes,Low,Normal,8.05,49,1
+PID0807,50,Male,Lung Cancer,59.3,Stage II,No,None,Non-Smoker,Yes,High,Abnormal,1.99,17,1
+PID0810,60,Male,Lung Cancer,35.3,Stage IV,No,BRCA2,Current Smoker,Yes,High,Abnormal,14.97,27,0
+PID0812,69,Female,Lung Cancer,6.9,Stage IV,No,EGFR,Former Smoker,No,Moderate,Abnormal,4.51,24,1
+PID0814,75,Female,Lung Cancer,80.9,Stage IV,No,TP53,Former Smoker,No,Low,Normal,19.23,60,1
+PID0815,50,Male,Lung Cancer,28.8,Stage III,Yes,BRCA1,Non-Smoker,No,Moderate,Normal,12.5,47,1
+PID0816,54,Female,Lung Cancer,13.3,Stage III,No,BRCA1,Former Smoker,No,High,Normal,9.6,46,1
+PID0819,76,Female,Lung Cancer,55.8,Stage II,Yes,None,Former Smoker,No,High,Normal,12.21,45,1
+PID0821,56,Male,Lung Cancer,33.3,Stage III,No,BRAF,Non-Smoker,No,Moderate,Normal,3.63,6,1
+PID0822,57,Male,Lung Cancer,11.5,Stage II,No,TP53,Non-Smoker,No,High,Normal,13.31,20,1
+PID0823,68,Male,Lung Cancer,95.9,Stage II,No,TP53,Non-Smoker,Yes,Low,Abnormal,13.35,67,0
+PID0829,63,Male,Lung Cancer,8.3,Stage III,No,BRAF,Non-Smoker,No,Low,Normal,15.27,90,0
+PID0830,37,Male,Lung Cancer,16.1,Stage I,No,None,Non-Smoker,No,Moderate,Normal,3.95,93,0
+PID0834,41,Male,Lung Cancer,96.0,Stage II,Yes,BRAF,Current Smoker,No,High,Normal,14.78,67,0
+PID0843,48,Female,Lung Cancer,31.5,Stage IV,Yes,TP53,Current Smoker,Yes,Low,Abnormal,3.02,70,0
+PID0850,70,Female,Lung Cancer,45.8,Stage I,No,BRCA1,Former Smoker,No,Moderate,Abnormal,6.98,104,0
+PID0854,68,Male,Lung Cancer,17.0,Stage I,Yes,BRCA1,Former Smoker,Yes,High,Normal,3.83,103,0
+PID0858,78,Female,Lung Cancer,7.0,Stage IV,Yes,EGFR,Former Smoker,Yes,Moderate,Abnormal,5.85,106,1
+PID0860,42,Female,Lung Cancer,13.5,Stage IV,No,TP53,Non-Smoker,No,Low,Normal,3.78,101,1
+PID0861,49,Male,Lung Cancer,93.0,Stage II,Yes,BRCA1,Former Smoker,Yes,Moderate,Abnormal,3.17,104,1
+PID0864,64,Male,Lung Cancer,86.7,Stage IV,No,None,Former Smoker,Yes,Low,Abnormal,7.8,120,0
+PID0870,42,Female,Lung Cancer,28.3,Stage II,No,BRCA1,Non-Smoker,Yes,Moderate,Normal,2.8,60,0
+PID0871,31,Female,Lung Cancer,12.5,Stage I,Yes,None,Current Smoker,Yes,Moderate,Abnormal,15.88,28,1
+PID0872,67,Female,Lung Cancer,87.8,Stage II,No,None,Non-Smoker,Yes,Low,Abnormal,1.54,91,0
+PID0884,74,Female,Lung Cancer,35.3,Stage I,Yes,TP53,Current Smoker,Yes,Moderate,Normal,10.28,1,0
+PID0888,71,Female,Lung Cancer,31.0,Stage III,Yes,TP53,Former Smoker,No,Moderate,Normal,2.68,23,0
+PID0889,74,Female,Lung Cancer,15.9,Stage III,No,BRCA1,Non-Smoker,No,Moderate,Abnormal,5.99,16,0
+PID0893,24,Male,Lung Cancer,38.8,Stage I,No,None,Non-Smoker,No,Moderate,Normal,4.09,96,1
+PID0904,48,Male,Lung Cancer,60.4,Stage IV,Yes,BRCA2,Non-Smoker,Yes,High,Normal,19.06,3,1
+PID0907,28,Male,Lung Cancer,68.5,Stage IV,No,BRAF,Current Smoker,No,Moderate,Abnormal,9.05,106,1
+PID0920,44,Female,Lung Cancer,25.9,Stage IV,No,BRAF,Non-Smoker,Yes,Moderate,Normal,19.05,39,0
+PID0926,78,Female,Lung Cancer,82.0,Stage II,Yes,None,Non-Smoker,No,Moderate,Normal,6.78,102,1
+PID0933,28,Male,Lung Cancer,97.4,Stage I,Yes,TP53,Current Smoker,No,Low,Abnormal,15.46,56,1
+PID0935,20,Female,Lung Cancer,1.8,Stage III,No,BRCA1,Former Smoker,Yes,Low,Normal,13.25,26,0
+PID0945,41,Male,Lung Cancer,2.5,Stage II,Yes,BRAF,Current Smoker,Yes,Moderate,Normal,17.19,69,0
+PID0946,76,Male,Lung Cancer,31.8,Stage IV,No,BRCA1,Former Smoker,No,Low,Abnormal,10.11,107,0
+PID0949,24,Female,Lung Cancer,79.6,Stage II,Yes,BRCA1,Non-Smoker,Yes,High,Abnormal,6.79,74,0
+PID0953,77,Female,Lung Cancer,96.7,Stage II,No,TP53,Current Smoker,Yes,Low,Abnormal,4.37,96,1
+PID0954,65,Male,Lung Cancer,80.2,Stage III,Yes,None,Non-Smoker,Yes,Moderate,Abnormal,13.77,82,1
+PID0956,58,Male,Lung Cancer,25.9,Stage III,Yes,None,Non-Smoker,Yes,High,Normal,3.3,106,1
+PID0958,37,Female,Lung Cancer,72.9,Stage II,Yes,BRAF,Current Smoker,No,Moderate,Abnormal,10.65,68,1
+PID0960,68,Female,Lung Cancer,63.1,Stage IV,Yes,None,Non-Smoker,No,Moderate,Abnormal,2.23,94,1
+PID0970,37,Female,Lung Cancer,84.7,Stage III,Yes,BRCA2,Current Smoker,No,High,Abnormal,13.52,36,1
+PID0974,51,Male,Lung Cancer,98.1,Stage IV,No,EGFR,Non-Smoker,Yes,Low,Normal,9.57,74,1
+PID0980,52,Female,Lung Cancer,19.3,Stage IV,Yes,BRCA1,Former Smoker,Yes,Moderate,Normal,10.72,3,1
+PID0988,42,Female,Lung Cancer,53.9,Stage I,No,BRAF,Current Smoker,No,Low,Abnormal,14.9,68,0
+PID0989,42,Female,Lung Cancer,91.2,Stage I,No,BRCA1,Current Smoker,No,High,Abnormal,4.53,82,0
+PID0993,36,Male,Lung Cancer,64.1,Stage I,Yes,BRAF,Current Smoker,Yes,Low,Normal,18.9,33,1
+PID0995,80,Female,Lung Cancer,12.0,Stage I,No,BRCA1,Current Smoker,Yes,High,Normal,9.04,19,0
